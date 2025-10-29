@@ -1,4 +1,4 @@
-# 🧠 C Programming Course (A–Z)
+# C Programming Course (A–Z)
 
 Welcome to the **C Programming Course Repository**, a complete, structured learning resource designed to teach the C language **from fundamentals to advanced topics**.
 This repository is ideal for **students, educators, and self-learners** who want to deeply understand how C works — from writing the first program to working with memory, pointers, and file systems.
